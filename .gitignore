@@ -1,0 +1,9 @@
+.venv/
+venv/
+.idea/
+__pycache__/
+*.pyc
+books.csv
+books.json
+.DS_Store
+Thumbs.db
